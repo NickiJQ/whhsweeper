@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>source/(1).png</file>
+        <file>source/(2).png</file>
+        <file>source/(3).png</file>
+        <file>source/(4).png</file>
+        <file>source/(5).png</file>
+        <file>source/(6).png</file>
+        <file>source/(7).png</file>
+        <file>source/(8).png</file>
+        <file>source/(9).png</file>
+        <file>source/1.png</file>
+        <file>source/2.png</file>
+        <file>source/empty.png</file>
+        <file>source/flag.png</file>
+        <file>source/lei.jpg</file>
+        <file>source/lei2.jpg</file>
+        <file>source/未标题-1.jpg</file>
+        <file>source/lei3.jpg</file>
+        <file>source/pic2.jpg</file>
+        <file>source/kdkd.jpg</file>
+        <file>source/lala.jpg</file>
+        <file>source/gou.jpg</file>
+    </qresource>
+</RCC>
